@@ -1,8 +1,9 @@
 {
-    "phone number" : "+1234567890",
-    "api id" : 1234567890,
-    "api hash" : "112233445566eerrtt778899",
-    "chat id" : -1234567890
-
+    "phone number" : "+xxxxxxx phone number",
+    "api id" : "your id",
+    "api hash" : "your api hash",
+    "chat id" : "your chat id",
+    "api_key" : "your api key",
+    "secret_key" : "your secret key"
 
 }
